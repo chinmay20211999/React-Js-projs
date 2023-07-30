@@ -1,6 +1,6 @@
 # Cryptogem - Explore the World of Cryptocurrency
 
-![Cryptogem](https://i.ibb.co/8gh5Jc8/image.png)
+
 
 ## Introduction
 This is a code repository for the cryptogem app portal. 
